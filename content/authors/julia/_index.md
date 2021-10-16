@@ -19,7 +19,7 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Julia Stewart Lowndes
+name: Jade Abbott
 organizations:
 - name: Stanford University
   url: ""
@@ -36,7 +36,7 @@ social:
   link: https://github.com/jules32
 superuser: true
 user_groups:
-- Instructors
+- Organizers
 ---
 
 [ADD YOUR BIO HERE USING MARKDOWN]

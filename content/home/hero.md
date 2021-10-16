@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "R for Excel Users"
+title = "AfricaNLP Workshop: Strengthening African NLP"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "2020-Conf-600x600.jpg"
@@ -25,7 +25,7 @@ hero_media = "2020-Conf-600x600.jpg"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -45,16 +45,15 @@ hero_media = "2020-Conf-600x600.jpg"
   
 [cta_alt]
   url = "about"
-  label = "About this workshop"
+  label = "Call For Paper"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = 'Early Bird discount ends August 31'
 +++
 
-A two-day workshop to give you hands-on experience working with data across R, Excel, and Google Sheets focusing on: 
 
-+ data import and export, 
-+ basic wrangling, 
-+ visualization, and 
-+ reporting with R Markdown. 
+Welcome! This is the website for virtual Africa NLP workshop January 27-28 at rstudio::conf 2020 in San Francisco, CA.
+
+This workshop provided a gentle introduction to machine learning and to tidymodels 
+

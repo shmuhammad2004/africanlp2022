@@ -1,6 +1,6 @@
 ---
 authors:
-- clippy
+- Kathleen Siminyu
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
 education:
@@ -33,7 +33,7 @@ social:
   link: https://github.com/jennybc/scary-excel-stories
 superuser: false
 user_groups:
-- Teaching Assistants
+- Organizers
 ---
 
 
