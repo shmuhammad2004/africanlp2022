@@ -53,6 +53,6 @@ hero_media = "2020-Conf-600x600.jpg"
 +++
 
 
-Welcome to virtual Africa NLP workshop January 27-28 at 2022 in San Francisco, CA.
+Welcome to virtual AfricaNLP workshop June 20-25, 2022 in Marseille, France.
 
 
