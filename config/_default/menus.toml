@@ -1,0 +1,120 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+
+[[main]]
+  name = "Call for Paper"
+  url = "calls"
+  weight = 10
+  identifier = "about"
+  
+
+[[main]]
+  name = "Blog"
+  url = "Blog"
+  weight = 20
+
+
+
+[[main]]
+  name = "Program"
+  url = "Program"
+  weight = 30
+
+
+[[main]]
+  name = "Papers"
+  url = "papers"
+  weight = 40
+  identifier = "papers"
+
+  [[main]]
+  name = "Accepted Papers"
+  url = "papers#accepted-papers"
+  weight = 40
+  parent = "papers"
+
+
+  [[main]]
+  name = "Best Papers Awards"
+  url = "papers#best-paper-award"
+  weight = 40
+  parent = "papers"
+
+
+
+[[main]]
+  name = "People"
+  url = "people"
+  weight = 50
+  identifier = "people"
+
+
+[[main]]
+  name = "Speakers"
+  url = "People#Speakers"
+  weight = 50
+  parent = "people"
+
+  
+[[main]]
+  name = "Organizers"
+  url = "people#Organizers"
+  weight = 50
+  parent = "people"
+
+
+[[main]]
+  name = "Program Commitee"
+  url = "people#Program-commitee"
+  weight = 50
+  parent = "people"
+  
+
+
+[[main]]
+  name = "Sponsors"
+  url = "sponsors"
+  weight = 60
+
+[[main]]
+  name = "Contact US"
+  url = "contactus"
+  weight = 65
+
+
+[[main]]
+  name = "Editions"
+  url = "edition"
+  weight = 70
+  identifier = "edition"
+  
+    
+[[main]]
+  name = "2021"
+  url = "Editions#2021"
+  weight = 70
+  parent = "edition"
+
+     
+[[main]]
+  name = "2020"
+  url = "Editions#2020"
+  weight = 70
+  parent = "edition"
+ 
+
+#[[main]]
+ # name = "Program Commitee"
+#  url = "people#Program-commitee"
+ # weight = 60
+  #parent = "people"
+
+# uncomment when ready to share source code and add repo link to upper navbar
+# [[main]]
+  #pre = "<i class=\"fab fa-github fa-lg\"></i>"
+  #name = ""
+  #url = "https://github.com/rstudio-conf-2020/workshop-template-blogdown"
+  #weight = 60
