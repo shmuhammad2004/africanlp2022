@@ -53,7 +53,6 @@ hero_media = "2020-Conf-600x600.jpg"
 +++
 
 
-Welcome! This is the website for virtual Africa NLP workshop January 27-28 at rstudio::conf 2020 in San Francisco, CA.
+Welcome to virtual Africa NLP workshop January 27-28 at 2022 in San Francisco, CA.
 
-This workshop provided a gentle introduction to machine learning and to tidymodels 
 
