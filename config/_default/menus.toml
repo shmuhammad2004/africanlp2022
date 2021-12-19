@@ -97,6 +97,7 @@
   url = "Editions#2021"
   weight = 70
   parent = "edition"
+  url = "https://sites.google.com/view/africanlp-workshop"
 
      
 [[main]]
@@ -104,6 +105,8 @@
   url = "Editions#2020"
   weight = 70
   parent = "edition"
+  url = "https://africanlp-workshop.github.io"
+
  
 
 #[[main]]
