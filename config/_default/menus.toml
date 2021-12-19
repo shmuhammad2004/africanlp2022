@@ -12,9 +12,37 @@
   
 
 [[main]]
+  name = "People"
+  url = "people"
+  weight = 20
+  identifier = "people"
+
+
+[[main]]
+  name = "Speakers"
+  url = "People#Speakers"
+  weight = 20
+  parent = "people"
+
+  
+[[main]]
+  name = "Organizers"
+  url = "people#Organizers"
+  weight = 20
+  parent = "people"
+
+
+[[main]]
+  name = "Program Commitee"
+  url = "people#Program-commitee"
+  weight = 14
+  parent = "people"
+  
+  
+[[main]]
   name = "Blog"
   url = "Blog"
-  weight = 20
+  weight = 500
 
 
 
@@ -45,34 +73,6 @@
 
 
 
-[[main]]
-  name = "People"
-  url = "people"
-  weight = 50
-  identifier = "people"
-
-
-[[main]]
-  name = "Speakers"
-  url = "People#Speakers"
-  weight = 50
-  parent = "people"
-
-  
-[[main]]
-  name = "Organizers"
-  url = "people#Organizers"
-  weight = 50
-  parent = "people"
-
-
-[[main]]
-  name = "Program Commitee"
-  url = "people#Program-commitee"
-  weight = 50
-  parent = "people"
-  
-
 
 [[main]]
   name = "Sponsors"
@@ -81,8 +81,9 @@
 
 [[main]]
   name = "Contact US"
-  url = "contactus"
+  url = "contact/"
   weight = 65
+  
 
 
 [[main]]

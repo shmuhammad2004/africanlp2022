@@ -13,13 +13,13 @@ day_night = false
 font = "conf_2020"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "A two-day workshop at rstudio::conf 2020 in San Francisco, California (January 27-28)"
+description = "africanlp2022 workshop"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "2020-Conf-600x600.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "rstudio"
+twitter = "africanlp2022"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -42,7 +42,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/rstudio-conf-2020/workshop-template-blogdown", editable = {docs = true}}
+#edit_page = {repo_url = "https://github.com/rstudio-conf-2020/workshop-template-blogdown", editable = {docs = true}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -55,9 +55,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
-phone = ""
-address = "Hilton San Francisco Union Square<br>333 O'Farrell Street<br>San Francisco, CA 94102"
+email = "africanlp-workshop-org@googlegroups.com"
+#phone = ""
+#address = "Hilton San Francisco Union Square<br>333 O'Farrell Street<br>San Francisco, CA 94102"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday January 27, 09:00 to 17:00<br>

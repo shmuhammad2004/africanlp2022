@@ -44,8 +44,8 @@ hero_media = "2020-Conf-600x600.jpg"
   icon = ""
   
 [cta_alt]
-  url = "about"
-  label = "Call For Paper"
+  url = "calls"
+  label = "Call For Submission"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
