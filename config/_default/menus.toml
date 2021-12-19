@@ -95,18 +95,16 @@
     
 [[main]]
   name = "2021"
-  url = "Editions#2021"
+  url = "https://sites.google.com/view/africanlp-workshop"
   weight = 70
   parent = "edition"
-  url = "https://sites.google.com/view/africanlp-workshop"
 
      
 [[main]]
   name = "2020"
-  url = "Editions#2020"
+  url = ""https://africanlp-workshop.github.io""
   weight = 70
   parent = "edition"
-  url = "https://africanlp-workshop.github.io"
 
  
 
