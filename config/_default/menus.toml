@@ -102,7 +102,7 @@
      
 [[main]]
   name = "2020"
-  url = ""https://africanlp-workshop.github.io""
+  url = "https://africanlp-workshop.github.io"
   weight = 70
   parent = "edition"
 
