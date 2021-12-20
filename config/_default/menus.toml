@@ -41,8 +41,10 @@
 
 [[main]]
   name = "Program"
-  url = "Program"
+  url = "program/program/"
   weight = 30
+  identifier = "program"
+
 
 
 [[main]]
