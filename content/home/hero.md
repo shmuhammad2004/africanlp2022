@@ -48,9 +48,9 @@ hero_media = "2020-Conf-600x600.jpg"
   label = "Call For Submission"
   
 
-# Note. An optional note to show underneath the links.
-[cta_note]
-  label = 'Important Dates'
+# Note. An optional note to show underneath the #links.
+#[cta_note]
+#  label = 'Important Dates'
 +++
 
 
