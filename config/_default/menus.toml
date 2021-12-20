@@ -32,10 +32,10 @@
   parent = "people"
 
 
-[[main]]
-  name = "Blog"
-  url = "Blog"
-  weight = 500
+#[[main]]
+ # name = "Blog"
+  #url = "Blog"
+  #weight = 500
 
 
 
@@ -55,24 +55,24 @@
 
   [[main]]
   name = "Accepted Papers"
-  url = "papers#accepted-papers"
+  url = "calls"
   weight = 40
   parent = "papers"
 
 
   [[main]]
   name = "Best Papers Awards"
-  url = "papers#best-paper-award"
+  url = "calls"
   weight = 40
   parent = "papers"
 
 
 
 
-[[main]]
-  name = "Sponsors"
-  url = "sponsors"
-  weight = 60
+#[[main]]
+ # name = "Sponsors"
+  #url = "sponsors"
+  #weight = 60
 
 [[main]]
   name = "Contact US"
@@ -103,11 +103,12 @@
 
  
 
-#[[main]]
- # name = "Program Commitee"
-#  url = "people#Program-commitee"
- # weight = 60
-  #parent = "people"
+[[main]]
+  name = "Program Commitee"
+  url = "pc/pc/"
+  weight = 60
+  identifier = "program Commitee"
+
 
 # uncomment when ready to share source code and add repo link to upper navbar
 # [[main]]

@@ -38,7 +38,7 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "http://rstd.io/conf"
+  url = "https://lrec2022.lrec-conf.org/en/"
   label = "Register Now"
   icon_pack = ""
   icon = ""
@@ -46,10 +46,11 @@ hero_media = "2020-Conf-600x600.jpg"
 [cta_alt]
   url = "calls"
   label = "Call For Submission"
+  
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Early Bird discount ends August 31'
+  label = 'Important Dates'
 +++
 
 
