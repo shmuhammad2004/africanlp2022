@@ -38,14 +38,18 @@
   #weight = 500
 
 
-
+# Change the url of Program : "program/program/"
 [[main]]
   name = "Program"
-  url = "program/program/"
+  url = "calls"
   weight = 30
   identifier = "program"
 
-
+#[[main]]
+ # name = "Program"
+#  url = "program/program/"
+ # weight = 30
+  #identifier = "program"
 
 [[main]]
   name = "Papers"

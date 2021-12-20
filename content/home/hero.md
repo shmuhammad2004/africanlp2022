@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "AfricaNLP Workshop: Strengthening African NLP"
+title = "AfricaNLP Workshop Strengthening African NLP"
+
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "2020-Conf-600x600.jpg"
@@ -38,7 +39,7 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://lrec2022.lrec-conf.org/en/"
+  url = "https://iclr.cc"
   label = "Register Now"
   icon_pack = ""
   icon = ""
@@ -54,6 +55,5 @@ hero_media = "2020-Conf-600x600.jpg"
 +++
 
 
-Welcome to virtual AfricaNLP workshop June 20-25, 2022 in Marseille, France.
-
-
+Welcome to AfricaNLP 2022 virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on 25-28 April, 2022
+ 

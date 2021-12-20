@@ -10,7 +10,7 @@ social:
   link: https://twitter.com/msexcel
 superuser: false
 user_groups:
-- Organizers
+- Speakers
 ---
 
 
