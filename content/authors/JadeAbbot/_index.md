@@ -1,6 +1,6 @@
 ---
 authors:
-- JadeAbbot
+- Jade Abbot
 name: Jade Abbot
 organizations:
 role: Retro Rabbit
