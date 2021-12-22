@@ -14,8 +14,9 @@
 [[main]]
   name = "People"
   url = "people"
-  weight = 20
+  weight = 19
   identifier = "people"
+
 
 
 [[main]]
@@ -39,11 +40,12 @@
 
 
 # Change the url of Program : "program/program/"
-[[main]]
-  name = "Program"
-  url = "calls"
-  weight = 30
-  identifier = "program"
+#[[main]]
+ # name = "Program"
+  #url = "calls"
+  #weight = 30
+  #
+  #identifier = "program"
 
 #[[main]]
  # name = "Program"
@@ -51,24 +53,24 @@
  # weight = 30
   #identifier = "program"
 
-[[main]]
-  name = "Papers"
-  url = "papers"
-  weight = 40
-  identifier = "papers"
+#[[main]]
+ # name = "Papers"
+  #url = "papers"
+  #weight = 40
+  #identifier = "papers"
 
-  [[main]]
-  name = "Accepted Papers"
-  url = "calls"
-  weight = 40
-  parent = "papers"
+ # [[main]]
+  #name = "Accepted Papers"
+  #url = "calls"
+  #weight = 40
+  #parent = "papers"
 
 
-  [[main]]
-  name = "Best Papers Awards"
-  url = "calls"
-  weight = 40
-  parent = "papers"
+  #[[main]]
+  #name = "Best Papers Awards"
+  #url = "calls"
+  #weight = 40
+  #parent = "papers"
 
 
 
