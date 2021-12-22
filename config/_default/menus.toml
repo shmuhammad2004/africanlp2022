@@ -21,14 +21,13 @@
 
 [[main]]
   name = "Speakers"
-  url = "people#Speakers/"
+  url = "people#Speakers#"
   weight = 21
   parent = "people"
 
-  people/#Organizers
 [[main]]
   name = "Organizers"
-  url = "people#Organizers/"
+  url = "people#Organizers#"
   weight = 22
   parent = "people"
 
