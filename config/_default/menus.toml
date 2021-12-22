@@ -11,25 +11,25 @@
   identifier = "about"
   
 
-#[[main]]
- # name = "People"
-#  url = "speakers"
- # weight = 19
-  #identifier = "people"
+[[main]]
+  name = "People"
+  url = "speakers"
+  weight = 19
+  identifier = "people"
 
 
 
 [[main]]
   name = "Speakers"
-  url = "people#speakers/"
+  url = "people#speakers"
   weight = 21
-  identifier = "Speakers"
+   parent = "people"
 
 [[main]]
   name = "Organizers"
-  url = "people#organizers/"
+  url = "people#organizers"
   weight = 22
-  identifier = "Organizers"
+ parent = "people"
 
 
 
