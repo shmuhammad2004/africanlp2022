@@ -3,7 +3,7 @@ authors:
 - David Adelani
 name: David Adelani
 organizations:
-role: PhD student at Saarland University, Germany
+role: Saarland University, Germany
 social:
 - icon: twitter
   icon_pack: fab

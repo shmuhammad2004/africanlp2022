@@ -3,7 +3,7 @@ authors:
 - Salomey Osey
 name: Salomey Ose
 organizations:
-role: Research assistant at DeustoTech and researcher at Masakhane 
+role: DeustoTech 
 social:
 - icon: twitter
   icon_pack: fab

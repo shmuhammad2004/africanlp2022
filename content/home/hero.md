@@ -55,5 +55,5 @@ hero_media = "2020-Conf-600x600.jpg"
 +++
 
 
-Welcome to AfricaNLP 2022 virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on 25-28 April, 2022
+Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 25-28 April, 2022
  

@@ -3,7 +3,7 @@ authors:
 - PerezOgayo
 name: Perez Ogayo
 organizations:
-role: Masters student at Carnegie Mellon University
+role: Carnegie Mellon University
 social:
 - icon: twitter
   icon_pack: fab

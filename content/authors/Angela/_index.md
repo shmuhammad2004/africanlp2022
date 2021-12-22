@@ -1,9 +1,9 @@
 ---
 authors:
-- Angela
-name: Angela
+- Angela Fan
+name: Angela Fan
 organizations:
-role: Research Scientist at Facebook AI Research Paris
+role: Facebook AI Research Paris
 social:
 - icon: twitter
   icon_pack: fab

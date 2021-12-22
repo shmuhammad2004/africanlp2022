@@ -3,7 +3,7 @@ authors:
 - Constantine Lignos
 name: Constantine Lignos
 organizations:
-role: Assistant professor at Brandeis University (USA) 
+role: Brandeis University (USA) 
 social:
 - icon: twitter
   icon_pack: fab

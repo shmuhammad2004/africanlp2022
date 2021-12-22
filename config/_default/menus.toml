@@ -85,12 +85,6 @@
   
 
 
-[[main]]
-  name = "Editions"
-  url = "edition"
-  weight = 70
-  identifier = "edition"
-  
     
 [[main]]
   name = "2021"
@@ -113,6 +107,20 @@
   weight = 60
   identifier = "program Commitee"
 
+
+
+[[main]]
+  name = "sponsors"
+  url = "index.html/"
+  weight = 70
+  identifier = "Sponsors"
+  
+  [[main]]
+  name = "Editions"
+  url = "edition"
+  weight = 80
+  identifier = "edition"
+  
 
 # uncomment when ready to share source code and add repo link to upper navbar
 # [[main]]

@@ -3,7 +3,7 @@ authors:
 - Mohamed Ahmed
 name: Mohamed Ahmed
 organizations:
-role: Principal researcher at the Microsoft Africa Research Institute (MARI) 
+role: Microsoft Africa Research Institute (MARI) 
 social:
 - icon: twitter
   icon_pack: fab

@@ -3,7 +3,7 @@ authors:
 - Shamsuddeen Muhammad
 name: Shamsuddeen Muhammad
 organizations:
-role: PhD student at University of Porto, Portugal and faculty member at Bayero University Kano, Nigeria. Institute (MARI) 
+role:  Bayero University Kano, University of Porto
 social:
 - icon: twitter
   icon_pack: fab

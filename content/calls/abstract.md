@@ -47,9 +47,7 @@ title = "Call For Paper"
  css_class = ""
 +++
 
-Africa has over 2000 languages and yet these are among the least represented in NLP research. The rise in ML community efforts on the African continent has led to a growing interest in Natural Language Processing, particularly for African languages which are typically low-resourced languages. This interest is manifesting in the form of national, regional, continental and even global collaborative efforts to build corpora, as well as the application of the aggregated corpora to various NLP tasks.
-
-This workshop therefore has several aims:
+Africa has over 2000 languages and yet these are among the least represented in NLP research. The rise in ML community efforts on the African continent has led to a growing interest in Natural Language Processing, particularly for African languages which are typically low-resourced languages. This interest is manifesting in the form of national, regional, continental and even global collaborative efforts to build corpora, as well as the application of the aggregated corpora to various NLP tasks. This workshop therefore has several aims:
 
 + to showcase work being done by the African NLP community and provide a platform to share this expertise with a global audience interested in NLP techniques for low-resource languages
 
@@ -61,6 +59,7 @@ This workshop therefore has several aims:
 
 + to present an opportunity for more experienced researchers to further publicize their work and inspire younger researchers through keynotes and invited talks
 
-This workshop follows the previous successful edition in 2020 co-located with ICLR.
-It will be taking place ONLINE in co-location with EACL 2021 on Monday, April 19.
-No paper will be desk-rejected :)
+This workshop follows the previous successful editions in [2020](https://africanlp-workshop.github.io) and [2021](https://sites.google.com/view/africanlp-workshop). It will be taking place ONLINE in co-location with ICLR2022. No paper will be desk-rejected :)
+
+
+

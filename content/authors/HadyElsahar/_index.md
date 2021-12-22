@@ -3,7 +3,7 @@ authors:
 - Hady
 name: Hady Elsahar
 organizations:
-role: NLP/ML researcher in NAVERLABS Europe in Grenoble France
+role: NAVER LABS Europe 
 social:
 - icon: twitter
   icon_pack: fab

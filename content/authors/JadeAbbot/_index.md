@@ -3,7 +3,7 @@ authors:
 - JadeAbbot
 name: Jade Abbot
 organizations:
-role: Co-founder of Masakhane and works for Retro Rabbit, a South Africa based software company
+role: Retro Rabbit
 social:
 - icon: twitter
   icon_pack: fab

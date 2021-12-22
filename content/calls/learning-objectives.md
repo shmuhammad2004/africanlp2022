@@ -53,7 +53,7 @@ Each 2-page submission will be eligible for oral or poster presentation and may 
 
 **Submission Format**
 
-Contributions should be blinded and submitted using the ICLR template via Easy Chair.
+Contributions should be blinded and submitted using the [ICLR template](https://iclr.cc/Conferences/2022/AuthorGuide) via Easy Chair.
 
 **Important Dates**
 
