@@ -1,8 +1,9 @@
 ---
 _build:
-  render: never
+  render: true
 cascade:
   _build:
-    render: never
-    list: always
+    render: false
+    list: true
+    publishResources: false
 ---
