@@ -57,7 +57,7 @@ Contributions should be blinded and submitted using the [ICLR template](https://
 
 **Important Dates**
 
-+ Submissions deadline: Feb 26, 2022 12:00 AM UTC
++ Submissions deadline: **Feb 26, 2022 12:00 AM UTC**
 + Notification: Mar 26, 2022 01:00 AM UTC
 + Camera ready: to be decided
 + Workshop: to be decided
