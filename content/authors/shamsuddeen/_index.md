@@ -2,6 +2,7 @@
 authors: 
 - Shamsuddeen Muhammad
 name: Shamsuddeen Muhammad
+weight : 6
 organizations:
 role:  Bayero University Kano, University of Porto
 social:

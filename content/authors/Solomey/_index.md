@@ -1,7 +1,7 @@
 ---
 authors: 
 - Salomey Osey
-name: Salomey Ose
+name: Salomey Osei
 organizations:
 role: DeustoTech 
 social:

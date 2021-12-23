@@ -2,6 +2,7 @@
 authors:
 - Felix Nartey
 name: Felix Nartey
+weight : 8
 organizations:
 role: Wikimedia Foundation
 social:
