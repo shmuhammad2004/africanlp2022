@@ -2,6 +2,7 @@
 authors:
 - Angela Fan
 name: Angela Fan
+weight : 4
 organizations:
 role: Facebook AI Research Paris
 social:

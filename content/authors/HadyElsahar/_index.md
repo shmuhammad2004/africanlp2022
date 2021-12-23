@@ -2,6 +2,7 @@
 authors:
 - Hady
 name: Hady Elsahar
+weight : 5
 organizations:
 role: NAVER LABS Europe 
 social:

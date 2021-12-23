@@ -2,6 +2,7 @@
 authors:
 - Jade Abbot
 name: Jade Abbot
+weight : 1
 organizations:
 role: Retro Rabbit
 social:

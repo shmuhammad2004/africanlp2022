@@ -2,7 +2,7 @@
 authors:
 - David Adelani
 name: David Adelani
-weight : 1
+weight : 2
 organizations:
 role: Saarland University, Germany
 social:
