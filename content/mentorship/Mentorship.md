@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 11  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 1  # Order that this section will appear.
 
-title = "Submission Instruction"
-#subtitle = "[ADD YOUR LEARNING OBJECTIVES HERE USING MARKDOWN]"
+title = "Mentorship Sessions"
+#subtitle = "[Strengthening African NLP]"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -37,7 +37,7 @@ title = "Submission Instruction"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["6em", "0", "10em", "0"]
+  padding = ["6em", "0", "6em", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -47,23 +47,8 @@ title = "Submission Instruction"
  css_class = ""
 +++
 
-We will accept problem statements and extended abstracts (up to 2 pages + references)
+AfricaNLP organizes mentorship session on "paper writing in latex" by Julia Kreutzer and paper reviewing. 
 
-Each 2-page submission will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
+If you are plan to submit paper to AfricaNLP, you are encourage to attend the paper writting session. 
 
-**Submission Format**
-
-Contributions should be blinded and submitted using the [ICLR template](https://iclr.cc/Conferences/2022/AuthorGuide) via Easy Chair.
-
-**Important Dates**
-
-+ Submissions deadline: **March 03, 2022 12:00 AM UTC**
-+ Notification: Mar 26, 2022 01:00 AM UTC
-+ Camera ready: to be decided
-+ Workshop: to be decided
-
-
-
-
-
-
+Also, for our reviewers, we will have a session on "how to Review Papers" by Gravier
