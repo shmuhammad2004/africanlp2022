@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 11  # Order that this section will appear.
 
 title = "Submission Instruction"
-#subtitle = "[ADD YOUR LEARNING OBJECTIVES HERE USING MARKDOWN]"
+#subtitle = "[]"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,18 +47,23 @@ title = "Submission Instruction"
  css_class = ""
 +++
 
+
+
+
 We will accept problem statements and extended abstracts (up to 2 pages + references)
 
 Each 2-page submission will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
 
 **Submission Format**
 
-Contributions should be blinded and submitted using the [ICLR template](https://iclr.cc/Conferences/2022/AuthorGuide) via Easy Chair.
+
+Contributions should be blinded and submitted using the template available in [Latex](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/latex) and [Word](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/docx) formats.
+
 
 **Important Dates**
 
 + Submissions deadline: **March 03, 2022 12:00 AM UTC**
-+ Notification: Mar 26, 2022 01:00 AM UTC
++ Notification: to be decided
 + Camera ready: to be decided
 + Workshop: to be decided
 
