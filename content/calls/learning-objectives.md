@@ -54,18 +54,16 @@ We will accept problem statements and extended abstracts (up to 2 pages + refere
 
 Each 2-page submission will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
 
-**Submission Format**
-
 
 Contributions should be blinded and submitted using the template available in [Latex](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/latex) and [Word](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/docx) formats.
 
 
 **Important Dates**
 
-+ Submissions deadline: **March 03, 2022 12:00 AM UTC**
-+ Notification: to be decided
++ Submission Deadline: **March 3 2022  07:00 PM AoE**
++ Acceptance Notifications: **Mar 25  2022 09:00 PM AoE**
 + Camera ready: to be decided
-+ Workshop: to be decided
++ Workshop: April 25-29 2022
 
 
 
