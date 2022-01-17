@@ -49,11 +49,9 @@ title = "Submission Instruction"
 
 
 
+We will accept extended abstracts (up to 2 pages) and full papers (up to 8 pages) with unlimited references and appendices.
 
-We will accept problem statements and extended abstracts (up to 2 pages + references)
-
-Each 2-page submission will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
-
+Accepted submissions will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
 
 Contributions should be blinded and submitted using the template available in [Latex](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/latex) and [Word](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/docx) formats.
 
