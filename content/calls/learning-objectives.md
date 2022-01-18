@@ -53,10 +53,7 @@ We will accept extended abstracts (up to 2 pages) and full papers (up to 8 pages
 
 Accepted submissions will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
 
-Contributions should be blinded and submitted using the template available in [Latex](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/latex) and [Word](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/docx) formats via 
-
-
-Contributions should be blinded and submitted using the ICLR template via [OpenReview](https://openreview.net/group?id=ICLR.cc/2022/Workshop/AfricaNLP).
+Contributions should be blinded and submitted using the template available in [Latex](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/latex) and [Word](https://github.com/hadyelsahar/Template-AfricaNLP-Workshop-at-ICLR-2022/tree/main/docx) formats via [OpenReview](https://openreview.net/group?id=ICLR.cc/2022/Workshop/AfricaNLP).
 
 
 
