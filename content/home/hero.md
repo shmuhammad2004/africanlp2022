@@ -44,6 +44,7 @@ hero_media = "2020-Conf-600x600.jpg"
   icon_pack = ""
   icon = ""
   
+  
 [cta_alt]
   url = "calls"
   label = "Call For Submission"
@@ -55,5 +56,5 @@ hero_media = "2020-Conf-600x600.jpg"
 +++
 
 
-Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 25-28 April, 2022
+Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 25-28 April, 2022. Apply for AfricaNLP2022 [Mentorship](https://docs.google.com/forms/d/e/1FAIpQLSd0MI8IF45KqJPHYA0lf-64p84v5i8wmxEHcIvYteMNTggBkA/viewform)
  
