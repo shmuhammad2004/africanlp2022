@@ -49,7 +49,8 @@ title = "Submission Instruction"
 
 
 
-We will accept extended abstracts (up to 2 pages) and full papers (up to 8 pages) with unlimited references and appendices.
+We will accept extended abstracts (up to 2 pages) and full papers (up to 8 pages) with unlimited references and appendices. You can apply for AfricanNLP2022 [mentorship](https://docs.google.com/forms/d/e/1FAIpQLSd0MI8IF45KqJPHYA0lf-64p84v5i8wmxEHcIvYteMNTggBkA/viewform)
+
 
 Accepted submissions will be eligible for oral or poster presentation and may opt-in to be published in an arXiv proceedings.
 
