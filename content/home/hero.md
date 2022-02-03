@@ -56,6 +56,14 @@ hero_media = "2020-Conf-600x600.jpg"
 +++
 
 
-Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 25-28 April, 2022. Apply for AfricaNLP2022 [Peer Mentorship](https://docs.google.com/forms/d/e/1FAIpQLSd0MI8IF45KqJPHYA0lf-64p84v5i8wmxEHcIvYteMNTggBkA/viewform)
- 
- 
+Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 25-28 April, 2022. 
+
+We encourage participants to apply for AfricaNLP2022 [Peer Mentorship](https://docs.google.com/forms/d/e/1FAIpQLSd0MI8IF45KqJPHYA0lf-64p84v5i8wmxEHcIvYteMNTggBkA/viewform). The goal is to connect participants with academics, professionals, students, newcomers, and experts through bite-sized mentorship.
+
+
+<style>
+body {
+text-align: justify}
+</style>
+
+
