@@ -40,7 +40,7 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://openreview.net/group?id=ICLR.cc/2022/Workshop/AfricaNLP"
-  label = "Register Now"
+  label = " Submit your paper"
   icon_pack = ""
   icon = ""
   
