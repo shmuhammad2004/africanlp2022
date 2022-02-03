@@ -64,6 +64,11 @@ Contributions should be blinded and submitted using the template available in [L
 + Camera ready: to be decided
 + Workshop: April 25-29 2022
 
+Please submit your papers on the following link: [AfircaNLP2022 submission](https://openreview.net/group?id=ICLR.cc/2022/Workshop/AfricaNLP)
+
+
+
+
 
 
 
