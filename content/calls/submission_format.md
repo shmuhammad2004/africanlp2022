@@ -59,7 +59,7 @@ Contributions should be blinded and submitted using the template available in [L
 
 **Important Dates**
 
-+ Submission Deadline: **March 3 2022  07:00 PM AoE**
++ Submission Deadline(extended): **March 7 2022  07:00 PM AoE**
 + Acceptance Notifications: **Mar 25  2022 09:00 PM AoE**
 + Camera ready: to be decided
 + Workshop: April 25-29 2022
