@@ -60,6 +60,9 @@ Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-loca
 
 We encourage participants to apply for AfricaNLP2022 [Peer Mentorship](https://docs.google.com/forms/d/e/1FAIpQLSd0MI8IF45KqJPHYA0lf-64p84v5i8wmxEHcIvYteMNTggBkA/viewform). The goal is to connect participants with academics, professionals, students, newcomers, and experts through bite-sized mentorship.
 
+Submission deadline has been extended to  **March 7 2022 07:00 PM AoE**
+
+
 
 <style>
 body {
