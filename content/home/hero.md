@@ -39,8 +39,8 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://openreview.net/group?id=ICLR.cc/2022/Workshop/AfricaNLP"
-  label = " Submit your paper"
+  url = "https://openreview.net/group?id=ICLR.cc%2F2022%2FWorkshop%2FAfricaNLP"
+  label = " Accepted papers"
   icon_pack = ""
   icon = ""
   

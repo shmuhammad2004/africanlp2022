@@ -126,11 +126,11 @@
 
 
 
-[[main]]
-  name = "sponsors"
-  url = "index.html/"
-  weight = 70
-  identifier = "Sponsors"
+#[[main]]
+ # name = "Papers"
+  #url = "papers/"
+  #weight = 70
+  #identifier = "Papers"
   
   [[main]]
   name = "Editions"
