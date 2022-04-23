@@ -50,7 +50,6 @@ A Chevening Scholar, Honorary Fellow of the Linguistics Association of Nigerian
 (LAN), former Council Member of the West African Linguistics Society (WALS),
 former board member of West Africa Democracy Radio (Dakar, Senegal) and
 recipient of various academic and professional awards, he has published many
- 
 papers and journal articles in local and international scientific journals in the area of
 Human Language Technology (HLT) and he is very much sought after as a speaker
 in local and international conferences. An accomplished performing musician and a
