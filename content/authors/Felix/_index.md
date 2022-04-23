@@ -2,7 +2,7 @@
 authors:
 - Michael Auli
 name: Michael Auli
-weight : 8
+weight : 2.5
 organizations:
 role: Facebook AI Research
 superuser: false
