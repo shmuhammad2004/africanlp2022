@@ -55,6 +55,10 @@ Human Language Technology (HLT) and he is very much sought after as a speaker
 in local and international conferences. An accomplished performing musician and a
 former national athlete, he is married with three children.
  
+## Topic
+
+Convenience, Random or Purposive Sampling: African Languages and Global NLP
+
 
 <style>
 body {
