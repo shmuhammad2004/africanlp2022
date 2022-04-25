@@ -19,7 +19,7 @@ summary: "Overview of our 2-day schedule"  # Add a page description.
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 11:30 - 11:45          | Q&A for Invited Talk                                                                                                          |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 11:45 - 11:55          | Spotlight Talk 1 : Participatory Translations of Oshiwambo: Towards Sustainable Culture Preservation with Language Technology |
+| 11:45 - 11:55          | Spotlight Talk 1 : Analysing the effects of transfer learning on low-resourced named entity recognition performance           |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 11:55 - 12:05          | Spotlight Talk 2 : Building Text and Speech Datasets for Low Resourced Languages: A Case of Languages in East Africa          |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
@@ -33,7 +33,7 @@ summary: "Overview of our 2-day schedule"  # Add a page description.
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
 | 2:15 - 2:30            | Q&A for Afternoon Keynote (Q&A)                                                                                               |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
-| 2:30 - 2:40            | Spotlight Talk 3 : Analysing the effects of transfer learning on low-resourced named entity recognition performance           |
+| 2:30 - 2:40            | Spotlight Talk 3 : Participatory Translations of Oshiwambo: Towards Sustainable Culture Preservation with Language Technology |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
 |                        |                                                                                                                               |
 +------------------------+-------------------------------------------------------------------------------------------------------------------------------+
