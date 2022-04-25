@@ -4,26 +4,42 @@ summary: "Overview of our 2-day schedule"  # Add a page description.
 #date: "2019-01-01T00:00:00Z"  # Add today's date.
 ---
 
-|   addDate: 29/04/2022   |                                                                                                                               |
-|:--------------------:|:----------------------------------------------------:|
-|  2:00 a.m. - 2:05 a.m.  |                                                        Opening Remark                                                         |
-|  2:05 a.m. - 2:50 a.m.  |         Morning Keynote: Convenience, Random or Purposive Sampling: African Languages and Global NLP - Túndé Adégbọlá         |
-|  2:50 a.m. - 3:00 a.m.  |                                                 Q&A for Morning Keynote (Q&A)                                                 |
-|  3:00 a.m. - 3:30 a.m   |                        Invited Talk: Low-resource natural language processing - Cristina España-Bonet                         |
-|  3:30 a.m. - 3:45 a.m   |                                                  Q&A for Invited Talk (Q&A)                                                   |
-|  3:55 a.m. - 4:05 a.m   | Spotlight Talk 1 : Participatory Translations of Oshiwambo: Towards Sustainable Culture Preservation with Language Technology |
-|  3:55 a.m. - 4:05 a.m.  |     Spotlight Talk 2 : Building Text and Speech Datasets for Low Resourced Languages: A Case of Languages in East Africa      |
-|  4:05 a.m. - 4:50 a.m.  |                                                 Poster Section (Gather Town)                                                  |
-|  4:50 a.m. - 5:30 a.m   |                                                        Social + Break                                                         |
-|  5:30 a.m. - 6:15 a.m   |                                          Afternoon Keynote - Joyce Nakatumba-Nabende                                          |
-|  6:15 a.m. - 6:30 a.m.  |                                                Q&A for Afternoon Keynote (Q&A)                                                |
-|  6:30 a.m. - 6:40 a.m.  |      Spotlight Talk 3 : Analysing the effects of transfer learning on low-resourced named entity recognition performance      |
-|  6:50 a.m. - 7:00 a.m   |                                                             Break                                                             |
-|  7:00 a.m. - 7:45 a.m.  |                                            Poster Section + Social (Gather Town)                                              |
-|  7:45 a.m. - 8:45 a.m.  |                       Panel: Abeba Birhane, Mona Diab, and Audace Niyonkuru - Moderated by Perez Ogayo                        |
-|  8:45 a.m. - 9:00 a.m.  |                                                             Break                                                             |
-|  9:00 a.m. - 9:45 a.m.  |                                                  Invited Talk - Timnit Gebru                                                  |
-| 9:45 a.m. - 10:00 a.m.  |                                                  Q&A for Invited Talk (Q&A)                                                   |
-| 10:00 a.m. - 11:00 a.m. |                         Tutorial and Q&A: Zero-resource speech technology with wav2vec - Michael Auli                         |
-| 11:00 a.m. - 11:25 a.m. |               Invited Talk and Q&A: Measuring the Representativeness of NLP Datasets - Antonios Anastasopoulos                |
-| 11:25 a.m. - 11:30 a.m. |                                                Closing remarks - David Adelani                                                |
++------------------------+---------------------------------------------------------------------------------------+
+| **Morning Sessions**   |                                                                                       |
++:======================:+:=====================================================================================:+
+| 0:00 - 10:45\          |                                                                                       |
+| 10:45 - 11:00          |                                                                                       |
++------------------------+---------------------------------------------------------------------------------------+
+|                        | **Session on Machine Translation For African Languages**                              |
++------------------------+---------------------------------------------------------------------------------------+
+| 11:00 - 11:30\         | Machine Translation for Low-Resource Languages, Cristina Espana-Bonet\                |
+| 11:30 - 11:45          | Questions                                                                             |
++------------------------+---------------------------------------------------------------------------------------+
+| 11:45 - 12:05          | 2 Spotlight Talks from Authors (10' each)                                             |
++------------------------+---------------------------------------------------------------------------------------+
+| 12:05 - 12:50          | Poster Session                                                                        |
++------------------------+---------------------------------------------------------------------------------------+
+| 12:50 - 1:30           | Social + Break                                                                        |
++------------------------+---------------------------------------------------------------------------------------+
+| **Afternoon Sessions** |                                                                                       |
++------------------------+---------------------------------------------------------------------------------------+
+| 1:30 - 2:15\           | Afternoon Keynote, Joyce Nakatumba-Nabende\                                           |
+| 2:15 - 2:30            | Questions + VC Buffer                                                                 |
++------------------------+---------------------------------------------------------------------------------------+
+| 2:30 - 3:00\           | **Session on Speech For African Languages dd** Animating Oral History : Felix Nartey\ |
+| 3:00 - 3:15\           | Questions \                                                                           |
+| 3:15 - 3:45            | Tutorial on wav2vec : Michael Auli                                                    |
++------------------------+---------------------------------------------------------------------------------------+
+| 3:45 - 4:05            | 2 Spotlight Talks from Authors, 10 minutes each                                       |
++------------------------+---------------------------------------------------------------------------------------+
+| 4:05 - 4:15            | Break                                                                                 |
++------------------------+---------------------------------------------------------------------------------------+
+| 4:15 - 5:00            | Posters + Social                                                                      |
++------------------------+---------------------------------------------------------------------------------------+
+| 5:00 - 5:45\           | NLP For Endangered Languages, Antonios Anastasopoulos\                                |
+| 5:45 - 6:00            | Questions + VC Buffer                                                                 |
++------------------------+---------------------------------------------------------------------------------------+
+| 6:00 - 6:50            | Panel: Timnit Gebru, Abebe Birhane, Mona Diab, Audace Niyonkuru + others              |
++------------------------+---------------------------------------------------------------------------------------+
+| 6:50 - 7:00            | Closing remarks & Best paper awards                                                   |
++------------------------+---------------------------------------------------------------------------------------+
