@@ -47,7 +47,7 @@ hero_media = "2020-Conf-600x600.jpg"
   
 [cta_alt]
   url = "https://iclr.cc/virtual/2022/workshop/4549"
-  label = "Join Worshop live streaming"
+  label = "Join the live streaming"
   
 
 # Note. An optional note to show underneath the #links.
