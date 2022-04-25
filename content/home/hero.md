@@ -46,7 +46,7 @@ hero_media = "2020-Conf-600x600.jpg"
   
   
 [cta_alt]
-  url = "https://iclr.cc/virtual/2022/workshop/4549"
+  url = "/program/program/"
   label = "Workshop Schedule"
   
 
