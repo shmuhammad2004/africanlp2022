@@ -18,3 +18,4 @@ Audace Niyonkuru is a founder of Digital Umuganda, an AI and open data firm in K
 body {
 text-align: justify}
 </style>
+

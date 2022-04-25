@@ -10,4 +10,6 @@ user_groups:
 - Speakers
 ---
 
+## Bio
+
 Abeba Birhane is a cognitive scientist researching human behaviour, cognition, and social systems. She also examines the challenges and pitfalls of computational models and datasets behind these phenomena.
