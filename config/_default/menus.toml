@@ -59,14 +59,13 @@
  # name = "Program"
   #url = "calls"
   #weight = 30
-  #
   #identifier = "program"
 
-#[[main]]
- # name = "Program"
-#  url = "program/program/"
- # weight = 30
-  #identifier = "program"
+[[main]]
+  name = "Program"
+  url = "program/program/"
+  weight = 30
+  identifier = "program"
 
 #[[main]]
  # name = "Papers"

@@ -6,6 +6,7 @@ summary: "Overview of our 2-day schedule"  # Add a page description.
 
 
 
+
 <table><colgroup><col style="width: 39%" /><col style="width: 60%" /></colgroup><thead><tr class="header"><th style="text-align: center;"><p><strong>Morning Sessions</strong></p></th><th style="text-align: center;"><p></p></th></tr></thead><tbody><tr class="odd"><td style="text-align: center;"><p>0:00 - 10:45<br />
 10:45 - 11:00</p></td><td style="text-align: center;"><p>Morning Keynote, Túndé Adégbọlá <br />
 Questions + VC Buffer</p></td></tr><tr class="even"><td style="text-align: center;"></td><td style="text-align: center;"><p><strong>Session on Machine Translation For African Languages</strong></p></td></tr><tr class="odd"><td style="text-align: center;"><p>11:00 - 11:30<br />
