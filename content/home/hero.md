@@ -46,8 +46,8 @@ hero_media = "2020-Conf-600x600.jpg"
   
   
 [cta_alt]
-  url = "/program/program/"
-  label = "Workshop Schedule"
+  url = "https://iclr.cc/virtual/2022/workshop/4549"
+  label = "Join Worshop live streaming"
   
 
 # Note. An optional note to show underneath the #links.
@@ -57,9 +57,6 @@ hero_media = "2020-Conf-600x600.jpg"
 
 
 Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 29 April, 2022. 
-
-Submission deadline has been extended to  **"March 7, 2022, 11:59pm AoE"**
-
 
 
 <style>
