@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programs on AfricaNLP Workshop</title>
+    <link>/program/</link>
+    <description>Recent content in Programs on AfricaNLP Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/program/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AfricaNLP2022 Workshop Schedule</title>
+      <link>/program/program/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/program/program/</guid>
+      <description>
+
+
+&lt;table&gt;
+&lt;colgroup&gt;
+&lt;col width=&#34;16%&#34; /&gt;
+&lt;col width=&#34;83%&#34; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr class=&#34;header&#34;&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;strong&gt;Time (GMT+1)&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;center&gt;
+What?&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;10:00 - 10:05&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Opening Remark&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;10:00 - 10:50&lt;br /&gt;
+&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Convenience, Random or Purposive Sampling African Languages and Global NLP- - Túndé Adégbọlá&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;10:50 - 11:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Q&amp;amp;A for Morning Keynote&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;11:00 - 11:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Invited Talk: Low-resource natural language processing - Cristina España-Bonet&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;11:30 - 11:45&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Q&amp;amp;A for Invited Talk&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;11:45 - 11:55&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Spotlight Talk 1 : Analysing the effects of transfer learning on low-resourced named entity recognition performance&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;11:55 - 12:05&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Spotlight Talk 2 : Building Text and Speech Datasets for Low Resourced Languages: A Case of Languages in East Africa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;12:50 - 12:50&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Poster Section (Gather Town)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;12:50 - 1:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Social + Break&lt;/strong&gt; (Break)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Afternoon Sessions&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;1:30 - 2:15&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Afternoon Keynote - Joyce Nakatumba-Nabende&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;2:15 - 2:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Q&amp;amp;A for Afternoon Keynote (Q&amp;amp;A)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;2:30 - 2:40&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Spotlight Talk 3 : Participatory Translations of Oshiwambo: Towards Sustainable Culture Preservation with Language Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;2:50 - 2:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;3:00 - 3:45&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Poster Section + Social (Gather Town)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;3:45 - 4:45&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Panel: Abeba Birhane, Mona Diab, and Audace Niyonkuru - Moderated by Perez Ogayo (discussion panel)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;4:450 - 5:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;5:00 - 5:45&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Invited Talk - Timnit Gebru&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;5:45 - 6:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Q&amp;amp;A for Invited Talk (Q&amp;amp;A)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;6:00 - 7:00&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Tutorial and Q&amp;amp;A: Zero-resource speech technology with wav2vec - Michael Auli&lt;/strong&gt; (invited talk)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;odd&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;7:00 - 7:25&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;Invited Talk and Q&amp;amp;A: Measuring the Representativeness of NLP Datasets - Antonios Anastasopoulos&lt;/strong&gt; (invited talk)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&#34;even&#34;&gt;
+&lt;td align=&#34;center&#34;&gt;7:25 - 7:30&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Closing remarks - David Adelani (closing remark)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

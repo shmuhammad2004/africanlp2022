@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on AfricaNLP Workshop</title>
+    <link>/contact/</link>
+    <description>Recent content in Contacts on AfricaNLP Workshop</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description>&lt;p&gt;For question or information about the AfricaNLP2022 Workshop:&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Please contact the workshop organizers at: &lt;a href=&#34;mailto:africanlp-workshop-org@googlegroups.com&#34;&gt;africanlp-workshop-org@googlegroups.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on AfricaNLP Workshop</title>
+    <title>AfricaNLP Workshop</title>
     <link>/authors/</link>
-    <description>Recent content in Authors on AfricaNLP Workshop</description>
+    <description>Recent content on AfricaNLP Workshop</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
@@ -12,35 +12,245 @@
     
     <item>
       <title></title>
-      <link>/authors/clippy/</link>
+      <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/clippy/</guid>
+      <guid></guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/david/</link>
+      <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/david/</guid>
-      <description>&lt;p&gt;[ADD YOUR BIO HERE USING MARKDOWN]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;David Adelani is a doctoral student in computer science at Saarland University, Saarbrücken, Germany. His current research focuses on the security and privacy of users’ information in dialogue systems and online social interactions. Originally from Nigeria, he is also actively involved in the development of natural language processing datasets and tools for low-resource languages, with a special focus on African languages.&lt;/p&gt;
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Tunde Adegbola is a Research Scientist, Consulting Engineer and Culture Activist.
+He holds a B.Sc in Electrical Engineering, M.Sc. in Computer Science and Ph.D. in
+Information Science. As Executive Director of African Languages Technology
+Initiative (Alt-i), Ibadan, Nigeria, he leads a team of researchers in appropriating
+human language technologies for African languages. In this regard, Alt-i partnered
+with Microsoft to localise Microsoft Windows and Office Suite for Hausa, Igbo and
+Yoruba. Before Alt-i, he worked at Innovative Computing Group (ICG) Inc. Ohio,
+USA, applying Cellular Automata Transform (CAT), an innovative data modelling
+technology developed in ICG for the perceptual compression of Digital Audio.
+He taught Artificial Intelligence and Automated Reasoning at the University of Lagos
+from 2008 to 2019 and has been teaching same subjects in the University of Ibadan
+from 1990 till date. In 2016 he was commissioned by Shell Nigeria Exploration and
+Production Company (SNEPCo) to undertake Stake-Holder Consultations and
+Needs Assessment for the delivery of ICT Centres to some Nigerian universities as
+part of SNEPCo’s Corporate Social Responsibility programme. He also coordinated
+the development of curricular and course materials for the M.SC and Ph.D
+programmes in Artificial Intelligence for the National Open University of Nigeria
+(NOUN).
+As a consulting Broadcast Engineer and Media Systems Integrator, he helped to
+develop the technology infrastructure for the Nigerian Motion Picture Industry
+(Nollywood), working with production houses such as Mainframe Productions, Klink
+Studios, Cinecraft and Media International. He designed and installed many of the
+pioneering private TV Stations in Nigeria including Channels Television, MITV and
+Africa Independent Television (AIT), which he designed, supplied, installed and
+commissioned between 1995 and 1997. He has also worked in setting up new as
+well as enhancing existing radio and television stations in Senegal, Guinea Bissau,
+Guinea Conakry, Liberia, Sierra Leone and SaoTome and Principe, consulting for
+various international NGOs and UN bodies such as Open Society Initiative for West
+Africa (OSIWA), International Alert, UNICEF and UNDP.
+He is at present the Chairman of the Technical Sub-committee of Digiteam; the
+Presidential body set up to guide the transition of television broadcasting in Nigeria
+from analogue to digital and also functions as a member of the Ministerial Task
+Force for the same purpose. He is also a member of the Digital Literacy
+Implementation Committee for South West Nigeria of the DAWN Commission.
+A Chevening Scholar, Honorary Fellow of the Linguistics Association of Nigerian
+(LAN), former Council Member of the West African Linguistics Society (WALS),
+former board member of West Africa Democracy Radio (Dakar, Senegal) and
+recipient of various academic and professional awards, he has published many
+papers and journal articles in local and international scientific journals in the area of
+Human Language Technology (HLT) and he is very much sought after as a speaker
+in local and international conferences. An accomplished performing musician and a
+former national athlete, he is married with three children.&lt;/p&gt;
+&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+&lt;p&gt;Convenience, Random or Purposive Sampling: African Languages and Global NLP&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/julia/</link>
+      <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/authors/julia/</guid>
-      <description>&lt;p&gt;[ADD YOUR BIO HERE USING MARKDOWN]&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Julia Stewart Lowndes PhD is a marine ecologist, data scientist, and Mozilla Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS). As founding director of Openscapes and science program lead of the Ocean Health Index, she empowers scientists with data science and open practices. She also leads trainings as a co-founder of Eco-Data-Science, R-Ladies Santa Barbara, and as an instructor with The Carpentries. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.&lt;/p&gt;
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Antonios Anastasopoulos is an Assistant Professor in Computer Science at George Mason University. He received his PhD in Computer Science from the University of Notre Dame and then did a postdoc at Languages Technologies Institute at Carnegie Mellon University. His research is on natural language processing with a focus on low-resource settings, endangered languages, and cross-lingual learning, and is currently funded by the National Science Foundation, the National Endowment for the Humanities, Google, Amazon, and the Virginia Research Investment Fund.&lt;/p&gt;
+&lt;h2 id=&#34;title-measuring-the-representativeness-of-nlp-datasets&#34;&gt;Title: Measuring the Representativeness of NLP Datasets&lt;/h2&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Michael Auli is a research scientist director at Facebook AI Research in Menlo Park, California. He works on speech recognition and NLP which resulted in projects such as wav2vec/data2vec, the widely used fairseq toolkit, the first modern convolutional seq2seq models outperforming RNNs, and several top ranked submissions at the WMT news translation task in 2018 and 2019. Before that Michael was at Microsoft Research, where he did early work on neural machine translation and neural dialogue modeling. During his PhD he worked on natural language processing and parsing at the University of Edinburgh.&lt;/p&gt;
+&lt;h2 id=&#34;topic&#34;&gt;Topic&lt;/h2&gt;
+&lt;p&gt;Tutorial and Q&amp;amp;A: Zero-resource speech technology with wav2vec&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Abeba Birhane is a cognitive scientist researching human behaviour, cognition, and social systems. She also examines the challenges and pitfalls of computational models and datasets behind these phenomena.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Cristina España-Bonet is currently the machine translation team lead at the German Research Center for Artificial Intelligence (DFKI GmbH). With a background on physics (degree), artificial intelligence (master) and cosmology (PhD), she has been working on natural language processing at Universitat Politècnica de Catalunya (Barcelona), Saarland University and DFKI (Saarbrücken). Cristina is especially interested in interlingual and multilingual approaches and how these can be used to improve performance in low-resourced settings and for low-resourced languages.&lt;/p&gt;
+&lt;h2 id=&#34;low-resource-natural-language-processing-or-a-bit-of-it&#34;&gt;Low-resource natural language processing (or a bit of it!)&lt;/h2&gt;
+&lt;p&gt;Under this very generic title I will summarize some work in our group related to embeddings, machine translation and evaluation that has been done for languages from Sub-Saharan Africa. I will start by defining a low-resource setting and we will see how, in this case, the (language-dependent) curation of the data is crucial for some tasks. Afterwards I will focus on neural machine translation (NMT) and compare several approaches when only a limited amount of parallel data is available. Using one of the models as example, self-supervised NMT, we will discuss the evaluation of such models to see that, in low-resource settings, not only trainings but also evaluations are a challenge.&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Timnit Gebru is the founder and executive director of the Distributed Artificial Intelligence Research Institute (DAIR). Prior to that she was fired by Google in December 2020 for raising issues of discrimination in the workplace, where she was serving as co-lead of the Ethical AI research team. She received her PhD from Stanford University, and did a postdoc at Microsoft Research, New York City in the FATE (Fairness Accountability Transparency and Ethics in AI) group, where she studied algorithmic bias and the ethical implications underlying projects aiming to gain insights from data. Timnit also co-founded Black in AI, a nonprofit that works to increase the presence, inclusion, visibility and health of Black people in the field of AI, and is on the board of AddisCoder, a nonprofit dedicated to teaching algorithms and computer programming to Ethiopian highschool students, free of charge.&lt;/p&gt;
+&lt;h2 id=&#34;on-the-dangers-of-stochastic-parrots-can-language-models-be-too-big-&#34;&gt;On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜&lt;/h2&gt;
+&lt;p&gt;The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific tasks, researchers have extended the state of the art on a wide array of tasks as measured by leaderboards on specific benchmarks for English. In this paper, we take a step back and ask: How big is too big? What are the possible risks associated with this technology and what paths are available for mitigating those risks? We provide recommendations including weighing the environmental and financial costs first, investing resources into curating and carefully documenting datasets rather than ingesting everything on the web, carrying out pre-development exercises evaluating how the planned approach fits into research and development goals and supports stakeholder values, and encouraging research directions beyond ever larger language models.&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Joyce Nakatumba-Nabende (PhD)  is a lecturer in the Department of Computer Science and heads the Makerere Artificial Intelligence Lab. Her research interests are in Artificial Intelligence, Machine Learning, Natural Language Processing and Responsible AI. Currently, she is carrying out research in several areas including application of computer vision, machine learning and natural language processing in the areas of health and agriculture in the developing world. Through the Makerere Artificial Intelligence lab, she has been able to provide an environment to nurture and build institutional data science research training capacity for the undergraduate, masters, and PhD researchers.&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>&lt;h2 id=&#34;bio&#34;&gt;Bio&lt;/h2&gt;
+&lt;p&gt;Audace Niyonkuru is a founder of Digital Umuganda, an AI and open data firm in Kigali,Rwanda. Digital Umuganda has been building an open voice dataset for ASR in Kinyarwanda and has managed to collect over 2,000 hours of open data. Digital Umuganda has also been working on innovating in NLP and is currently working on a chatbot for covid-19 response in Rwanda. Apart from ASR , Digital Umuganda is also working on other areas of NLP such as TTS &amp;amp; Chatbot development and machine translation.Digital Umuganda is scaling these efforts to other African languages with a mission  to increase the availability of open &amp;amp; publicly available datasets in African languages.&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
     </item>
     
   </channel>

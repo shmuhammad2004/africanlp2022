@@ -101,6 +101,11 @@
   
 
 
+[[main]]
+  name = "2023"
+  url = "https://sites.google.com/view/africanlp2023/home"
+  weight = 70
+  parent = "edition"
     
 [[main]]
   name = "2021"
@@ -114,6 +119,7 @@
   url = "https://africanlp-workshop.github.io"
   weight = 70
   parent = "edition"
+
 
  
 

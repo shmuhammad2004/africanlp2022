@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "AfricaNLP Workshop Strengthening African NLP"
+title = "AfricaNLP 2023 Workshop is [here](https://sites.google.com/view/africanlp2023/home)"
+
 
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
