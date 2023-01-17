@@ -40,24 +40,33 @@ hero_media = "2020-Conf-600x600.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://openreview.net/group?id=ICLR.cc%2F2022%2FWorkshop%2FAfricaNLP"
-  label = " Accepted papers"
+  url = "https://sites.google.com/view/africanlp2023/home"
+  label = " AfricaNLP 2023"
   icon_pack = ""
   icon = ""
   
-  
-[cta_alt]
-  url = "https://iclr.cc/virtual/2022/workshop/4549"
-  label = "Join the live streaming"
-  
-
+# 
+#  [cta_alt]
+#    url = "https://africanlp.masakhane.io"
+#    label = "Click Editions for previous workshops "
+#    
+# [cta_alt]
+#   url = "https://sites.google.com/view/africanlp-workshop"
+#   label = "2021"
+#   
+# [cta_alt]
+#   url = "https://africanlp-workshop.github.io"
+#   label = "2020"
+#   
+# 
 # Note. An optional note to show underneath the #links.
-#[cta_note]
-#  label = 'Important Dates'
+ [cta_note]
+  label = 'Click Editions for previous workshop'
 +++
 
 
-Welcome to AfricaNLP virtual workshop. It will be taking place ONLINE in co-location with ICLR2022 on April 29 April, 2022. 
+Welcome to AfricaNLP workshop Website. This year 2023, AfricaNLP will be collocated with ICLR 2023, 5th May 2023. Visit the [AfricaNLP 2023 workshop page](https://sites.google.com/view/africanlp2023/home)
+
 
 
 <style>
